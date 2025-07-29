@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Marshland Habitat",
+        "type": "Pantheon",
+        "uniques": ["[+2 Production] from every [Marsh]"]
+    },
+    {
+        "name": "Path of Destruction",
+        "type": "Pantheon",
+        "uniques": ["[+2 Food, +2 Production, +2 Gold, +2 Science, +2 Culture, +2 Faith] from every [City ruins]"]
+    },
+    {
+        "name": "Serene Lakes",
+        "type": "Pantheon",
+        "uniques": ["[+1 Culture] from every [Lakes]"]
+    },
+    {
+        "name": "God of Fire",
+        "type": "Pantheon",
+        "uniques": ["[+10 Happiness, +10 Faith] [in cities being razed]"]
+    }
+    {
+        "name": "Arctic Spirits",
+        "type": "Pantheon",
+        "uniques": ["[+1 Food] from every [Snow]"]
+    }
+]
