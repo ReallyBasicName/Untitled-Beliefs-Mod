@@ -22,7 +22,8 @@
         ]
     },
     {
-        "name": "Holy Death"
+        "name": "Holy Death", 
+        "type": "Pantheon",
         "uniques": [
             "[Military] units gain the [Holy Death] promotion"
         ]
