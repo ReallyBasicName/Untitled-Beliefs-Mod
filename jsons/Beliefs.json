@@ -1,4 +1,32 @@
 [
+    //Pantheon 
+    {
+        "name": "Animal Totems",
+        "type": "Pantheon",
+        "uniques": [
+            "[+1 Happiness, +1 Faith] from every [Deer]",
+            "[+1 Happiness, +1 Faith] from every [Fur]",
+            "[+1 Happiness, +1 Faith] from every [Ivory]"
+        ]
+    },
+    {
+        "name": "Animism",
+        "type": "Pantheon",
+        "uniques": [
+            "[+1 Happiness] from every [{unimproved} {Cattle}]",
+            "[+1 Happiness] from every [{unimproved} {Deer}]",
+            "[+1 Happiness] from every [{unimproved} {Furs}]",
+            "[+1 Happiness] from every [{unimproved} {Horses}]",
+            "[+1 Happiness] from every [{unimproved} {Ivory}]",
+            "[+1 Happiness] from every [{unimproved} {Sheep}]"
+        ]
+    },
+    {
+        "name": "Holy Death"
+        "uniques": [
+            "[Military] units gain the [Holy Death] promotion"
+        ]
+    },
     {
         "name": "Lord of the Flies",
         "type": "Pantheon",
@@ -8,12 +36,9 @@
             "[+1 Culture, +1 Faith] from every [Sheep]"
         ]
     },
-    {
-        "name": "Holy Death"
-        "uniques": [
-            "[Military] units gain the [Holy Death] promotion"
-        ]
-    },
+    //Follower
+    //Founder
+    //Enhancer
     //From Eggy
     {
         "name": "Marshland Habitat",
