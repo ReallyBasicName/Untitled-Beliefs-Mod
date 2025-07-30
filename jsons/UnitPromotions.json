@@ -1,0 +1,9 @@
+[
+	{
+		"name": "Holy Death",
+		"uniques": [
+			"Gain [10] [Culture] <upon being defeated> <(modified by game speed)>",
+			"Gain [10] [Faith] <upon being defeated> <(modified by game speed)>"
+		]
+	}
+]
