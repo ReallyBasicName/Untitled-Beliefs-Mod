@@ -1,28 +1,53 @@
 [
+    {
+        "name": "Lord of the Flies",
+        "type": "Pantheon",
+        "uniques": [
+            "[+1 Culture, +1 Faith] from every [Cattle]",
+            "[+1 Culture, +1 Faith] from every [Deer]",
+            "[+1 Culture, +1 Faith] from every [Sheep]"
+        ]
+    },
+    {
+        "name": "Holy Death"
+        "uniques": [
+            "[Military] units gain the [Holy Death] promotion"
+        ]
+    },
     //From Eggy
     {
         "name": "Marshland Habitat",
         "type": "Pantheon",
-        "uniques": ["[+2 Production] from every [Marsh]"]
+        "uniques": [
+            "[+2 Production] from every [Marsh]"
+        ]
     },
     {
         "name": "Path of Destruction",
         "type": "Pantheon",
-        "uniques": ["[+2 Food, +2 Production, +2 Gold, +2 Science, +2 Culture, +2 Faith] from every [City ruins]"]
+        "uniques": [
+            "[+2 Food, +2 Production, +2 Gold, +2 Science, +2 Culture, +2 Faith] from every [City ruins]"
+        ]
     },
     {
         "name": "Serene Lakes",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Lakes]"]
+        "uniques": [
+            "[+1 Culture] from every [Lakes]"
+        ]
     },
     {
         "name": "God of Fire",
         "type": "Pantheon",
-        "uniques": ["[+10 Happiness, +10 Faith] [in cities being razed]"]
+        "uniques": [
+            "[+10 Happiness, +10 Faith] [in cities being razed]"
+        ]
     }
     {
         "name": "Arctic Spirits",
         "type": "Pantheon",
-        "uniques": ["[+1 Food] from every [Snow]"]
+        "uniques": [
+            "[+1 Food] from every [Snow]"
+        ]
     }
 ]
